@@ -5,7 +5,7 @@ module.exports =  {
     "es6": true,
   },
   "rules": {
-    "semi": ["error", "always"],
+    "semi": ["error", "never"],
     "quotes": "off",
     "no-console": "off",
     "no-unused-vars": "off",
