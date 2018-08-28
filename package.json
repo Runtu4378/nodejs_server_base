@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_server_base",
+  "version": "1.0.0",
+  "description": "使用 NodeJS 实现的后台系统的基础代码框架",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runtu4378/nodejs_server_base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Runtu4378/nodejs_server_base/issues"
+  },
+  "homepage": "https://github.com/Runtu4378/nodejs_server_base#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
