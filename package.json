@@ -4,6 +4,8 @@
   "description": "使用 NodeJS 实现的后台系统的基础代码框架",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
+    "dev": "egg-bin dev"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,9 @@
   },
   "homepage": "https://github.com/Runtu4378/nodejs_server_base#readme",
   "dependencies": {
+    "egg": "^2.10.0"
   },
   "devDependencies": {
+    "egg-bin": "^4.8.3"
   }
 }
