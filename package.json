@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Runtu4378/nodejs_server_base#readme",
   "dependencies": {
     "egg": "^2.10.0",
-    "egg-view-nunjucks": "^2.2.0"
+    "egg-view-nunjucks": "^2.2.0",
+    "mongoose": "^5.3.2"
   },
   "devDependencies": {
     "egg-bin": "^4.8.3"
